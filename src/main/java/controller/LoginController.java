@@ -25,6 +25,10 @@ public class LoginController extends HttpServlet
 	String bClass;
 	String DaoClass;
 	
+	public void temp() {
+		System.out.println("hello");
+	}
+	
 	
        
    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException
