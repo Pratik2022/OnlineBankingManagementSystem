@@ -27,6 +27,7 @@ public class LoginController extends HttpServlet
 	
 	public void temp() {
 		System.out.println("hello");
+		System.out.println("pratik shinide");
 	}
 	
 	
