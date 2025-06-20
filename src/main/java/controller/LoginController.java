@@ -26,8 +26,9 @@ public class LoginController extends HttpServlet
 	String DaoClass;
 	
 	public void temp() {
-		System.out.println("hello");
-		System.out.println("pratik shinide");
+//		System.out.println("hello");
+//		System.out.println("pratik shinide");
+		System.out.println("this code is created by me");
 	}
 	
 	
